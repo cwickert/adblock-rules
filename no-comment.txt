@@ -9,3 +9,6 @@ www.faz.net##.StatusKommentare
 www.spiegel.de##.video-forum-bracket.spInteractionMarks
 www.spiegel.de##.module-box.article-comments-box.clearfix
 www.spiegel.de###spArticleFunctionForum
+www.tagesspiegel.de##.hcf-comments
+www.tagesspiegel.de###kommentare
+www.tagesspiegel.de##.ts-comment.ts-icon
