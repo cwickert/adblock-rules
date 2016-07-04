@@ -6,6 +6,9 @@ www.faz.net##.GETS\;lk\;artikel\.buttons\.comment\;lp\;funktion.comment.sharebut
 www.faz.net###lesermeinungscontainer
 www.faz.net##.SocialMediaStatus
 www.faz.net##.StatusKommentare
+www.focus.de##.comments
+www.focus.de###comments
+www.focus.de###commentForm
 www.spiegel.de##.video-forum-bracket.spInteractionMarks
 www.spiegel.de##.module-box.article-comments-box.clearfix
 www.spiegel.de###spArticleFunctionForum
