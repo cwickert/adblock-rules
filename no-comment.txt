@@ -26,6 +26,11 @@ spiegel.de###spArticleFunctionForum
 tagesspiegel.de##.hcf-comments
 tagesspiegel.de###kommentare
 tagesspiegel.de##.ts-comment.ts-icon
+theguardian.com###comments
+theguardian.com##.fc-trail__count--commentcount.fc-trail__count
+theguardian.com##.js-commentcount.meta__number
+!cosmetic to previous rule
+theguardian.com##.js-external-content-widget-anchor
 welt.de##.commentCount
 welt.de##.disqus-counter
 welt.de##.nocontent.margin-top-remove.omega.alpha.grid_8.articleComments.disqus.widget
