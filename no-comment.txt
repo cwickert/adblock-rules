@@ -9,6 +9,8 @@ faz.net##.StatusKommentare
 focus.de##.comments
 focus.de###comments
 focus.de###commentForm
+heise.de##.kommentare
+heise.de##.news.link_forum_beitrag
 spiegel.de##.video-forum-bracket.spInteractionMarks
 spiegel.de##.module-box.article-comments-box.clearfix
 spiegel.de###spArticleFunctionForum
