@@ -16,6 +16,9 @@ heise.de##.kommentare
 heise.de##.news.link_forum_beitrag
 maz-online.de##.comments_hook.pda-comment.pda-additive-li
 maz-online.de###modul_kommentare
+moz.de##.h4teaserComments
+moz.de###kommentar_tab
+!moz.de###mainContentCol > .contentEl630wArtikelTabsMenu
 spiegel.de##.video-forum-bracket.spInteractionMarks
 spiegel.de##.module-box.article-comments-box.clearfix
 spiegel.de###spArticleFunctionForum
