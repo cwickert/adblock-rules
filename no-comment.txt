@@ -19,6 +19,7 @@ maz-online.de###modul_kommentare
 moz.de##.h4teaserComments
 moz.de###kommentar_tab
 !moz.de###mainContentCol > .contentEl630wArtikelTabsMenu
+mz-web.de##.comments
 spiegel.de##.video-forum-bracket.spInteractionMarks
 spiegel.de##.module-box.article-comments-box.clearfix
 spiegel.de###spArticleFunctionForum
