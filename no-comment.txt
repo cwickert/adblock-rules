@@ -12,3 +12,10 @@ www.spiegel.de###spArticleFunctionForum
 www.tagesspiegel.de##.hcf-comments
 www.tagesspiegel.de###kommentare
 www.tagesspiegel.de##.ts-comment.ts-icon
+www.zeit.de###buzz-comments
+www.zeit.de###comments
+www.zeit.de##.js-scroll.metadata__commentcount
+www.zeit.de##.js-update-commentcount.teaser-classic__commentcount
+www.zeit.de##.js-update-commentcount.teaser-large__commentcount
+www.zeit.de##.js-update-commentcount.teaser-small__commentcount
+www.zeit.de##.nextread__commentcount
