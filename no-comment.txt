@@ -1,6 +1,11 @@
 ! Title: No Comment
 ! Homepage: https://github.com/cwickert/adblock-rules
 ! Expires: 7 days
+www.faz.net##.GETS\;lk\;artikel\.buttons\.comment\;lp\;abbinder.comment.sharebutton
+www.faz.net##.GETS\;lk\;artikel\.buttons\.comment\;lp\;funktion.comment.sharebutton
+www.faz.net###lesermeinungscontainer
+www.faz.net##.SocialMediaStatus
+www.faz.net##.StatusKommentare
 www.spiegel.de##.video-forum-bracket.spInteractionMarks
 www.spiegel.de##.module-box.article-comments-box.clearfix
 www.spiegel.de###spArticleFunctionForum
