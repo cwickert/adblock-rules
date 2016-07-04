@@ -15,6 +15,9 @@ www.spiegel.de###spArticleFunctionForum
 www.tagesspiegel.de##.hcf-comments
 www.tagesspiegel.de###kommentare
 www.tagesspiegel.de##.ts-comment.ts-icon
+www.welt.de##.commentCount
+www.welt.de##.disqus-counter
+www.welt.de##.nocontent.margin-top-remove.omega.alpha.grid_8.articleComments.disqus.widget
 www.zeit.de###buzz-comments
 www.zeit.de###comments
 www.zeit.de##.js-scroll.metadata__commentcount
