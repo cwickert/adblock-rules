@@ -33,6 +33,8 @@ theguardian.com##.fc-trail__count--commentcount.fc-trail__count
 theguardian.com##.js-commentcount.meta__number
 !cosmetic to previous rule
 theguardian.com##.js-external-content-widget-anchor
+washingtonpost.com###echo_container_pb_comments
+washingtonpost.com##.pb-comment-wrapper
 welt.de##.commentCount
 welt.de##.disqus-counter
 welt.de##.nocontent.margin-top-remove.omega.alpha.grid_8.articleComments.disqus.widget
