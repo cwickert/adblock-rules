@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/cwickert/adblock-rules
 ! Expires: 7 days
 berliner-zeitung.de##.comments
+derstandard.at###communityCanvas
+derstandard.at##.postings
+derstandard.at##small
 faz.net##.GETS\;lk\;artikel\.buttons\.comment\;lp\;abbinder.comment.sharebutton
 faz.net##.GETS\;lk\;artikel\.buttons\.comment\;lp\;funktion.comment.sharebutton
 faz.net###lesermeinungscontainer
