@@ -43,6 +43,10 @@ theguardian.com##.fc-trail__count--commentcount.fc-trail__count
 theguardian.com##.js-commentcount.meta__number
 !cosmetic for previous rule
 theguardian.com##.js-external-content-widget-anchor
+thesun.co.uk##.article-data__comment.article-data__item
+thesun.co.uk##.article-social__meta--comment-count.article-social__meta
+thesun.co.uk###comments
+thesun.co.uk##.teaser__social.article-data
 washingtonpost.com###echo_container_pb_comments
 washingtonpost.com##.pb-comment-wrapper
 welt.de##.commentCount
