@@ -25,6 +25,7 @@ nytimes.com##.theme-speech-bubble.comments-button.button
 spiegel.de##.video-forum-bracket.spInteractionMarks
 spiegel.de##.module-box.article-comments-box.clearfix
 spiegel.de###spArticleFunctionForum
+sueddeutsche.de###article-function-readerdialog
 tagesspiegel.de##.hcf-comments
 tagesspiegel.de###kommentare
 tagesspiegel.de##.ts-comment.ts-icon
