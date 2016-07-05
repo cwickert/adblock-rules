@@ -16,3 +16,22 @@ or just plain stupid. Even on	well-respected sites like [The New York Times](htt
 or [Die Zeit](http://www.zeit.de), trolls dominate the discussion. There is no
 use arguing with these [loosers](https://www.washingtonpost.com/news/the-intersect/wp/2015/07/20/men-who-harass-women-online-are-quite-literally-losers-new-study-finds),
 just use this filter and ignore all the negative energy.
+
+
+## Anti-social (TBD)
+
+Removes more 'social' features such as trending articles and sharing
+
+
+## Out of service (TBD)
+
+Removes 3rd party 'services' such as real estate search etc.
+
+
+## Push requests welcome!
+For instructions on writing filters, refer to the Adblock Plus
+[how-to](https://adblockplus.org/en/filters) and
+[cheat sheet](https://adblockplus.org/en/filter-cheatsheet). Unfortunately
+[µBlock does not support some filters](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax),
+but supports advanced dynamic filtering, so please only use the common subset
+for maximum compatibility.
