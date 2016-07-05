@@ -48,6 +48,8 @@ washingtonpost.com##.pb-comment-wrapper
 welt.de##.commentCount
 welt.de##.disqus-counter
 welt.de##.nocontent.margin-top-remove.omega.alpha.grid_8.articleComments.disqus.widget
+wiwo.de##.hcf-comments
+wiwo.de##.hcf-comments-container.hcf-detail
 zeit.de###buzz-comments
 zeit.de###comments
 zeit.de##.js-scroll.metadata__commentcount
