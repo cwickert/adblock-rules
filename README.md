@@ -6,7 +6,7 @@ ad blockers, mostly for (German) news sites.
 
 I recommend using [µBlock Origin](https://github.com/gorhill/uBlock).
 
-## No Comment [link](https://raw.githubusercontent.com/cwickert/adblock-rules/master/no-comment.txt)
+## No Comment ([link](https://raw.githubusercontent.com/cwickert/adblock-rules/master/no-comment.txt))
 
 Removes forums and user comments from popular news sites
 
