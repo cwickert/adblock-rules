@@ -10,6 +10,12 @@ faz.net##.StatusKommentare
 focus.de##.comments
 focus.de###comments
 focus.de###commentForm
+freitag.de##.comment-count
+freitag.de###interaction
+freitag.de###latest-activity-quickview
+freitag.de###toolbox > .comment
+!cosmetic for previous rule
+freitag.de###toolbox
 !FIXME golem.de###hpalc_*
 golem.de###comments
 heise.de##.kommentare
@@ -32,7 +38,7 @@ tagesspiegel.de##.ts-comment.ts-icon
 theguardian.com###comments
 theguardian.com##.fc-trail__count--commentcount.fc-trail__count
 theguardian.com##.js-commentcount.meta__number
-!cosmetic to previous rule
+!cosmetic for previous rule
 theguardian.com##.js-external-content-widget-anchor
 washingtonpost.com###echo_container_pb_comments
 washingtonpost.com##.pb-comment-wrapper
