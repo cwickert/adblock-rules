@@ -21,6 +21,7 @@ freitag.de###toolbox > .comment
 freitag.de###toolbox
 !FIXME golem.de###hpalc_*
 golem.de###comments
+golem.de###large-forum
 heise.de##.kommentare
 heise.de##.news.link_forum_beitrag
 maz-online.de##.comments_hook.pda-comment.pda-additive-li
