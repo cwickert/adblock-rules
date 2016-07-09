@@ -1,6 +1,5 @@
 ! Title: No Comment
 ! Homepage: https://github.com/cwickert/adblock-rules
-! Expires: 7 days
 berliner-zeitung.de##.comments
 derstandard.at###communityCanvas
 derstandard.at##.postings
