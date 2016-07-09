@@ -57,6 +57,7 @@ welt.de###js-as_article-show-comments
 welt.de##.nocontent.margin-top-remove.omega.alpha.grid_8.articleComments.disqus.widget
 wiwo.de##.hcf-comments
 wiwo.de##.hcf-comments-container.hcf-detail
+youtube.com###watch-discussion
 zeit.de###buzz-comments
 zeit.de###comments
 zeit.de##.js-scroll.metadata__commentcount
