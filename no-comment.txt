@@ -39,6 +39,7 @@ sueddeutsche.de###article-function-readerdialog
 tagesspiegel.de##.hcf-comments
 tagesspiegel.de###kommentare
 tagesspiegel.de##.ts-comment.ts-icon
+techcrunch.com###comments-container
 theguardian.com###comments
 theguardian.com##.fc-trail__count--commentcount.fc-trail__count
 theguardian.com##.js-commentcount.meta__number
