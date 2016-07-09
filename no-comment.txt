@@ -31,6 +31,7 @@ moz.de##.h4teaserComments
 moz.de###kommentar_tab
 !moz.de###mainContentCol > .contentEl630wArtikelTabsMenu
 mz-web.de##.comments
+nwzonline.de##.full.white.standalone.comments.c8
 nytimes.com##.comments-panel
 nytimes.com##.theme-speech-bubble.comments-button.button
 spiegel.de##.video-forum-bracket.spInteractionMarks
