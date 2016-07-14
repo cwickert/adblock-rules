@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/cwickert/adblock-rules
 ! Expires: 7 days
 ||disqus.com/embed/comments/$subdocument
+||facebook.com/plugins/comments.php
 berliner-zeitung.de##.comments
 derstandard.at###communityCanvas
 derstandard.at##.postings
