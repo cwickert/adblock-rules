@@ -38,6 +38,7 @@ mz-web.de##.comments
 nwzonline.de##.full.white.standalone.comments.c8
 nytimes.com##.comments-panel
 nytimes.com##.theme-speech-bubble.comments-button.button
+rp-online.de###comment-list
 spiegel.de##.video-forum-bracket.spInteractionMarks
 spiegel.de##.module-box.article-comments-box.clearfix
 spiegel.de###spArticleFunctionForum
