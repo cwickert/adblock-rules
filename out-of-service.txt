@@ -1,6 +1,8 @@
 ! Title: Out of Service
 ! Homepage: https://github.com/cwickert/adblock-rules
 ! Expires: 7 days
+golem.de###gservices
+golem.de###job-market
 heise.de###jobware-teaser
 heise.de##.teaser_preisvergleich_top10
 spiegel.de###spPartnerBar
