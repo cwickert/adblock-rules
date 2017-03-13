@@ -6,4 +6,5 @@ golem.de###job-market
 heise.de###jobware-teaser
 heise.de##.teaser_preisvergleich_top10
 spiegel.de###spPartnerBar
+wiwo.de##.hcf-services-stage
 zeit.de###servicebox
