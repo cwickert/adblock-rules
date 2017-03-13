@@ -20,12 +20,12 @@ just use this filter and ignore all the negative energy.
 
 ## Anti-social (TBD)
 
-Removes more 'social' features such as trending articles and sharing
+Removes more 'social' features such as trending articles and sharing.
 
 
-## Out of service (TBD)
+## Out of service ([link](https://raw.githubusercontent.com/cwickert/adblock-rules/master/out-of-service.txt))
 
-Removes 3rd party 'services' such as real estate search etc.
+Removes 3rd party 'services' such as job, real estate, or product search etc.
 
 
 ## Push requests welcome!
