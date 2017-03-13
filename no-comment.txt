@@ -73,6 +73,7 @@ zeit.de###buzz-comments
 zeit.de###comments
 zeit.de##.js-scroll.metadata__commentcount
 zeit.de##.js-update-commentcount.teaser-classic__commentcount
+zeit.de##.js-update-commentcount.teaser-fullwidth__commentcount
 zeit.de##.js-update-commentcount.teaser-large__commentcount
 zeit.de##.js-update-commentcount.teaser-small__commentcount
 zeit.de##.nextread__commentcount
