@@ -1,4 +1,4 @@
 ! Title: Out of Service
 ! Homepage: https://github.com/cwickert/adblock-rules
 ! Expires: 7 days
-
+spiegel.de###spPartnerBar
