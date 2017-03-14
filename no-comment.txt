@@ -5,6 +5,7 @@
 ||facebook.com/v2.5/plugins/quote.php
 ||facebook.com/plugins/comments.php
 ||facebook.com/plugins/quote.php
+bazonline.ch###mostPopularComment
 berliner-zeitung.de##.comments
 derstandard.at###communityCanvas
 derstandard.at##.postings
