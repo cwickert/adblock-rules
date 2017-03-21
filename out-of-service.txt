@@ -1,6 +1,8 @@
 ! Title: Out of Service
 ! Homepage: https://github.com/cwickert/adblock-rules
 ! Expires: 7 days
+faz.net##.job-empfehlungen
+faz.net##.ServicesFooter
 golem.de###gservices
 golem.de###job-market
 heise.de###jobware-teaser
