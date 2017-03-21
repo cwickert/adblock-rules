@@ -28,8 +28,8 @@ freitag.de###toolbox
 golem.de###comments
 golem.de###large-forum
 gruenderszene.de##.bottom-block.comments
-heise.de###forum-wapperl
 heise.de##.kommentare
+heise.de##.kommentare_lesen_link
 heise.de##.news.link_forum_beitrag
 maz-online.de##.comments_hook.pda-comment.pda-additive-li
 maz-online.de###modul_kommentare
