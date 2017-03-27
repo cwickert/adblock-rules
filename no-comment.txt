@@ -33,6 +33,7 @@ heise.de##.kommentare_lesen_link
 heise.de##.news.link_forum_beitrag
 maz-online.de##.comments_hook.pda-comment.pda-additive-li
 maz-online.de###modul_kommentare
+mdr.de##.ui-collapsible.conComments.conInline.con
 moz.de##.h4teaserComments
 moz.de###kommentar_tab
 !moz.de###mainContentCol > .contentEl630wArtikelTabsMenu
