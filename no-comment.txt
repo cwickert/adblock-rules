@@ -25,6 +25,7 @@ freitag.de###toolbox > .comment
 !cosmetic for previous rule
 freitag.de###toolbox
 !FIXME golem.de###hpalc_*
+golem.de##a.icon-comments
 golem.de###comments
 golem.de###large-forum
 gruenderszene.de##.bottom-block.comments
