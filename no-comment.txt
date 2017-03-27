@@ -65,11 +65,9 @@ thesun.co.uk###comments
 thesun.co.uk##.teaser__social.article-data
 washingtonpost.com###echo_container_pb_comments
 washingtonpost.com##.pb-comment-wrapper
-welt.de##.as_article-social__comment.as_article-social__icon
-welt.de##.commentCount
-welt.de##.disqus-counter
-welt.de###js-as_article-show-comments
-welt.de##.nocontent.margin-top-remove.omega.alpha.grid_8.articleComments.disqus.widget
+welt.de###Comments
+welt.de##.c-article-sharer__comment-container
+welt.de##.o-teaser__comment-count
 wiwo.de##.hcf-comments
 wiwo.de##.hcf-comments-container.hcf-detail
 wn.de##.fb_comments_box
