@@ -48,6 +48,7 @@ spiegel.de##.article-comments-box.clearfix
 spiegel.de##.video-forum-bracket.spInteractionMarks
 spiegel.de###spArticleFunctionForum
 sueddeutsche.de###article-function-readerdialog
+tagesschau.de##.metablockwrapper > .con
 tagesspiegel.de##.hcf-comments
 tagesspiegel.de###kommentare
 tagesspiegel.de##.ts-comment.ts-icon
