@@ -45,6 +45,7 @@ nytimes.com##.theme-speech-bubble.comments-button.button
 rp-online.de###comment-list
 rp-online.de##.social-list-element:nth-of-type(1)
 rp-online.de##.withComments.social > span:nth-of-type(1)
+rundschau-online.de##.comments
 spiegel.de##.article-comments-box.clearfix
 spiegel.de##.video-forum-bracket.spInteractionMarks
 spiegel.de###spArticleFunctionForum
