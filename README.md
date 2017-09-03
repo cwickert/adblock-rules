@@ -18,7 +18,7 @@ use arguing with these [loosers](https://www.washingtonpost.com/news/the-interse
 just use this filter and ignore all the negative energy.
 
 
-## Anti-social (TBD)
+## Anti-social ([link](https://raw.githubusercontent.com/cwickert/adblock-rules/master/antisocial.txt))
 
 Removes more 'social' features such as trending articles and sharing.
 
