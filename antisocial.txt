@@ -5,3 +5,7 @@ rp-online.de##.social
 rp-online.de##.withComments.social
 sueddeutsche.de##.most-shared-read--fixed-height.most-shared-read
 sueddeutsche.de##.currentreadercount
+zeit.de##.buzz-accordion
+zeit.de##.buzzboard
+zeit.de##.follow-us
+zeit.de##.sharing-menu
