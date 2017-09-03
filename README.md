@@ -28,7 +28,7 @@ Removes more 'social' features such as trending articles and sharing.
 Removes 3rd party 'services' such as job, real estate, or product search etc.
 
 
-## Push requests welcome!
+## Pull requests welcome!
 For instructions on writing filters, refer to the Adblock Plus
 [how-to](https://adblockplus.org/en/filters) and
 [cheat sheet](https://adblockplus.org/en/filter-cheatsheet). Unfortunately
