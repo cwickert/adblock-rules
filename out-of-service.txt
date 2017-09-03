@@ -12,4 +12,7 @@ tagesspiegel.de##.hcf-smart-box.hcf-center.hcf-sptag
 tagesspiegel.de###multislot-urban-sponsored-links
 spiegel.de###spPartnerBar
 wiwo.de##.hcf-services-stage
+zeit.de##.cp-area--shop.cp-area
+zeit.de##.jobbox--animate.jobbox--major.jobbox
+zeit.de##.nextread-advertisement
 zeit.de###servicebox
