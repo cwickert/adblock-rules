@@ -1,6 +1,7 @@
 ! Title: Antisocial
 ! Homepage: https://github.com/cwickert/adblock-rules
 ! Expires: 7 days
+bento.de##.social-icons
 rp-online.de##.social
 rp-online.de##.withComments.social
 sueddeutsche.de##.most-shared-read--fixed-height.most-shared-read
