@@ -11,6 +11,7 @@ tagespiegel.de###ig-code-promo-widget
 tagesspiegel.de##.hcf-smart-box.hcf-center.hcf-sptag
 tagesspiegel.de###multislot-urban-sponsored-links
 spiegel.de###spPartnerBar
+sueddeutsche.de##.end-of-article-joboffers
 wiwo.de##.hcf-services-stage
 zeit.de##.cp-area--shop.cp-area
 zeit.de##.jobbox--animate.jobbox--major.jobbox
