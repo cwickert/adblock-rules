@@ -32,6 +32,7 @@ gruenderszene.de##.bottom-block.comments
 handelsblatt.com##.vhb-comments-container
 heise.de##.kommentare
 heise.de##.kommentare_lesen_link
+heise.de##.media-icon--comments.media-icon
 heise.de##.news.link_forum_beitrag
 maz-online.de##.comments_hook.pda-comment.pda-additive-li
 maz-online.de###modul_kommentare
