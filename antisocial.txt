@@ -5,6 +5,8 @@ bento.de##.social-icons
 rp-online.de##.social
 rp-online.de##.withComments.social
 spiegel.de##.clearfix.social-bar-wrapper
+sueddeutsche.de###article-sidebar-action-twitter
+sueddeutsche.de###article-sidebar-action-facebook
 sueddeutsche.de##.most-shared-read--fixed-height.most-shared-read
 sueddeutsche.de##.currentreadercount
 zeit.de##.buzz-accordion
