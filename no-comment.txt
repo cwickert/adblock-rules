@@ -54,6 +54,9 @@ spiegel.de##.video-forum-bracket.spInteractionMarks
 spiegel.de###spArticleFunctionForum
 sueddeutsche.de###article-function-readerdialog
 sueddeutsche.de##.endofarticle__rivva-link
+sz-online.de###Comments
+sz-online.de##.commentLink.szoCommentIcon.szoLinkIcon
+sz-online.de##.szoCommentIcon.szoLinkIcon
 tagesschau.de##.metablockwrapper > .con
 tagesspiegel.de##.hcf-comments
 tagesspiegel.de###kommentare
