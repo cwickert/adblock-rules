@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/cwickert/adblock-rules
 ! Expires: 7 days
 bento.de##.social-icons
+nw.de##.bouncer-social-links.bouncer
+nw.de##.col-md-3
 rp-online.de##.social
 rp-online.de##.withComments.social
 spiegel.de##.clearfix.social-bar-wrapper
