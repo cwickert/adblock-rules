@@ -1,6 +1,11 @@
 ! Title: Antisocial
 ! Homepage: https://github.com/cwickert/adblock-rules
 ! Expires: 7 days
+bbc.com###follow-us
+bbc.com###share-tools-bottom
+bbc.com###share-tools-top
+bbc.com##.sharetools--reveal.sharetools
+bbc.com##.ghost-column.show.share--lightweight.share
 bento.de##.social-icons
 nw.de##.bouncer-social-links.bouncer
 nw.de##.col-md-3

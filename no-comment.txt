@@ -6,6 +6,8 @@
 ||facebook.com/plugins/comments.php
 ||facebook.com/plugins/quote.php
 bazonline.ch###mostPopularComment
+bbc.com###comments
+bbc.com##.comment-count
 berliner-zeitung.de##.comments
 derstandard.at###communityCanvas
 derstandard.at##.postings
