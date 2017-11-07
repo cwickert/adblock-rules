@@ -32,6 +32,7 @@ golem.de###comments
 golem.de###large-forum
 gruenderszene.de##.bottom-block.comments
 handelsblatt.com##.vhb-comments-container
+handelsblatt.com##.vhb-article-controls-comments.vhb-article-control
 heise.de##.kommentare
 heise.de##.kommentare_lesen_link
 heise.de##.media-icon--comments.media-icon
