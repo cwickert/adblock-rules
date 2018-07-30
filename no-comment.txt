@@ -33,10 +33,15 @@ golem.de###large-forum
 gruenderszene.de##.bottom-block.comments
 handelsblatt.com##.vhb-comments-container
 handelsblatt.com##.vhb-article-controls-comments.vhb-article-control
+heise.de##.comment_count.count
+heise.de##.forum_latest_posting_teaser
 heise.de##.kommentare
 heise.de##.kommentare_lesen_link
+heise.de##.list-inline.list-unstyled.teaser_flags
 heise.de##.media-icon--comments.media-icon
+heise.de##.meistkommentiert
 heise.de##.news.link_forum_beitrag
+heise.de##.top_beitraege_title
 maz-online.de##.comments_hook.pda-comment.pda-additive-li
 maz-online.de###modul_kommentare
 mdr.de##.ui-collapsible.conComments.conInline.con
