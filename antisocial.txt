@@ -9,6 +9,9 @@ bbc.com##.ghost-column.show.share--lightweight.share
 bento.de##.social-icons
 heise.de##.meistgelesen
 heise.de##.top_beitraege_title
+morgenpost.de###socialbar_fwid1
+morgenpost.de###socialbar_fwid4
+morgenpost.de##.follow-us
 nw.de##.bouncer-social-links.bouncer
 nw.de##.col-md-3
 rp-online.de##.social
