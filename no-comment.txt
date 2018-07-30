@@ -37,6 +37,7 @@ heise.de##.comment_count.count
 heise.de##.forum_latest_posting_teaser
 heise.de##.kommentare
 heise.de##.kommentare_lesen_link
+heise.de##.kommentare_verfassen
 heise.de##.list-inline.list-unstyled.teaser_flags
 heise.de##.media-icon--comments.media-icon
 heise.de##.meistkommentiert
