@@ -1,0 +1,94 @@
+! Title: No Comment
+! Homepage: https://github.com/cwickert/adblock-rules
+! Expires: 7 days
+||disqus.com/embed/comments/$subdocument
+||facebook.com/v2.5/plugins/quote.php
+||facebook.com/plugins/comments.php
+||facebook.com/plugins/quote.php
+bazonline.ch###mostPopularComment
+bbc.com###comments
+bbc.com##.comment-count
+berliner-zeitung.de##.comments
+derstandard.at###communityCanvas
+derstandard.at##.postings
+derstandard.at##small
+faz.net##.GETS\;lk\;artikel\.buttons\.comment\;lp\;abbinder.comment.sharebutton
+faz.net##.GETS\;lk\;artikel\.buttons\.comment\;lp\;funktion.comment.sharebutton
+faz.net###lesermeinungscontainer
+faz.net##.SocialMediaStatus
+faz.net##.StatusKommentare
+focus.de##.comments
+focus.de###comments
+focus.de###commentForm
+freitag.de##.comment-count
+freitag.de###interaction
+freitag.de###latest-activity-quickview
+freitag.de###toolbox > .comment
+!cosmetic for previous rule
+freitag.de###toolbox
+!FIXME golem.de###hpalc_*
+golem.de##a.icon-comments
+golem.de###comments
+golem.de###large-forum
+gruenderszene.de##.bottom-block.comments
+handelsblatt.com##.vhb-comments-container
+handelsblatt.com##.vhb-article-controls-comments.vhb-article-control
+heise.de##.kommentare
+heise.de##.kommentare_lesen_link
+heise.de##.media-icon--comments.media-icon
+heise.de##.news.link_forum_beitrag
+maz-online.de##.comments_hook.pda-comment.pda-additive-li
+maz-online.de###modul_kommentare
+mdr.de##.ui-collapsible.conComments.conInline.con
+moz.de##.h4teaserComments
+moz.de###kommentar_tab
+!moz.de###mainContentCol > .contentEl630wArtikelTabsMenu
+mz-web.de##.comments
+nw.de###comments-container
+nwzonline.de##.full.white.standalone.comments.c8
+nytimes.com##.comments-panel
+nytimes.com##.theme-speech-bubble.comments-button.button
+rp-online.de###comment-list
+rp-online.de##.social-list-element:nth-of-type(1)
+rp-online.de##.withComments.social > span:nth-of-type(1)
+rundschau-online.de##.comments
+spiegel.de##.article-comments-box.clearfix
+spiegel.de##.video-forum-bracket.spInteractionMarks
+spiegel.de###spArticleFunctionForum
+sueddeutsche.de###article-function-readerdialog
+sueddeutsche.de##.endofarticle__rivva-link
+sz-online.de###Comments
+sz-online.de##.commentLink.szoCommentIcon.szoLinkIcon
+sz-online.de##.szoCommentIcon.szoLinkIcon
+tagesschau.de##.metablockwrapper > .con
+tagesspiegel.de##.hcf-comments
+tagesspiegel.de###kommentare
+tagesspiegel.de##.ts-comment.ts-icon
+taz.de##.even.last.page.community.full > .body
+techcrunch.com###comments-container
+theguardian.com###comments
+theguardian.com##.fc-trail__count--commentcount.fc-trail__count
+theguardian.com##.js-commentcount.meta__number
+!cosmetic for previous rule
+theguardian.com##.js-external-content-widget-anchor
+thesun.co.uk##.article-data__comment.article-data__item
+thesun.co.uk##.article-social__meta--comment-count.article-social__meta
+thesun.co.uk###comments
+thesun.co.uk##.teaser__social.article-data
+washingtonpost.com###echo_container_pb_comments
+washingtonpost.com##.pb-comment-wrapper
+welt.de###Comments
+welt.de##.c-article-sharer__comment-container
+welt.de##.o-teaser__comment-count
+wiwo.de##.hcf-comments
+wiwo.de##.hcf-comments-container.hcf-detail
+wn.de##.fb_comments_box
+youtube.com###watch-discussion
+zeit.de###buzz-comments
+zeit.de###comments
+zeit.de##.js-scroll.metadata__commentcount
+zeit.de##.js-update-commentcount.teaser-classic__commentcount
+zeit.de##.js-update-commentcount.teaser-fullwidth__commentcount
+zeit.de##.js-update-commentcount.teaser-large__commentcount
+zeit.de##.js-update-commentcount.teaser-small__commentcount
+zeit.de##.nextread__commentcount
