@@ -7,6 +7,8 @@ bbc.com###share-tools-top
 bbc.com##.sharetools--reveal.sharetools
 bbc.com##.ghost-column.show.share--lightweight.share
 bento.de##.social-icons
+heise.de##.meistgelesen
+heise.de##.top_beitraege_title
 nw.de##.bouncer-social-links.bouncer
 nw.de##.col-md-3
 rp-online.de##.social
